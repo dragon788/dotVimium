@@ -1,0 +1,40 @@
+Patterns	Keys
+
+http*://mail.google.com/*
+
+jko?23g
+
+
+https?://www.shortcutfoo.com/app/dojos/*/*
+
+Exclude keys
+
+
+http*://talkwidget.google.com/*
+
+1234567890
+
+
+https://www.microsoft.com/appliedsciences/content/projects/KeyboardGhostingDemo.aspx
+
+Exclude keys
+
+
+https://www.microsoft.com/appliedsciences/content/projects/*
+
+Exclude keys
+
+
+https?://192.168.1.129:9443/*
+
+Exclude keys
+
+
+http://www.keyboard-layout-editor.com/
+
+Exclude keys
+
+
+https://hangouts.google.com/
+
+1234567890
