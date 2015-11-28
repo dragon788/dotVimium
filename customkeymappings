@@ -1,0 +1,3 @@
+# Insert your prefered key mappings here.
+map D LinkHints.activateModeToDownloadLink
+map I enterInsertMode
